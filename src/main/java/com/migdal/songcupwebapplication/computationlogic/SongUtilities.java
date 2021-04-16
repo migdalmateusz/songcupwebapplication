@@ -1,5 +1,9 @@
 package com.migdal.songcupwebapplication.computationlogic;
 
+import com.migdal.songcupwebapplication.buildlogic.SongCupBuildLogic;
+import com.migdal.songcupwebapplication.problemdomain.Song;
+import com.migdal.songcupwebapplication.problemdomain.SongStorage;
+
 import java.util.*;
 
 public class SongUtilities {

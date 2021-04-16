@@ -1,5 +1,8 @@
 package com.migdal.songcupwebapplication.buildlogic;
 
+import com.migdal.songcupwebapplication.computationlogic.SongUtilities;
+import com.migdal.songcupwebapplication.problemdomain.SongStorage;
+
 public class SongCupBuildLogic {
 
     private static int match = 0;
