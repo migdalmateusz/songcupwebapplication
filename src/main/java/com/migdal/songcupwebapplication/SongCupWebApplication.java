@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SongcupwebapplicationApplication {
+public class SongCupWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SongcupwebapplicationApplication.class, args);
+		SpringApplication.run(SongCupWebApplication.class, args);
 	}
 
 }
